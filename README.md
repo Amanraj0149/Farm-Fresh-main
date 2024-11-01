@@ -1,3 +1,3 @@
 # Farm-Fresh
 
-Click Here ->  https://farm-fresh-mern.onrender.com/
+Click Here ->  https://farmfreshmernstack.netlify.app/
